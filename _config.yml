@@ -9,7 +9,7 @@
 title: GRILL Lab @ UoG Computing Science
 
 # Your name to show in the footer
-author: Jeff Dalton
+author: GRILL Lab @ University of Glasgow CS
 
 # --- List of links in the navigation bar --- #
 
@@ -42,7 +42,7 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
   email: "jeff.dalton@glasgow.ac.uk"
-  github: daltonj
+  github: grill-lab
   twitter: jeffd
 #  reddit: yourname
 #  linkedin: daattali
