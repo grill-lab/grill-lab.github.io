@@ -6,7 +6,7 @@
 # --- Required options --- #
 
 # Name of website
-title: Glasgow Representation and Informational Learning Lab @ UoG Computing Science
+title: GRILL Lab @ UoG Computing Science
 
 # Your name to show in the footer
 author: Jeff Dalton
@@ -16,17 +16,17 @@ author: Jeff Dalton
 navbar-links:
   People: "people"
   Publications: "publications"
-  Project: "projects"
+  Projects: "projects"
   News: "news"
   Openings: "openings"
   Blog: "blog"
-  Internal: "internal"
+  Contact: "contact"
 
 # --- Logo --- #
 
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/assets/img/avatar-icon.png"
+#avatar: "/assets/img/avatar-icon.png"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
 round-avatar: true
