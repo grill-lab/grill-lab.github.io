@@ -14,6 +14,7 @@ subtitle:
 - Carlos Gemmell
 - Federico Rosetto
 - Iain Mackie 
+- Yola Jones (joint with MVLS)
 - Paul Owoicho (Jan. 2021)
 
 ### Research Assistants
