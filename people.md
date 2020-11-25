@@ -19,7 +19,7 @@ Twitter: [@aquaktus](https://twitter.com/aquaktus?lang=en)
 - Yola Jones (joint with MVLS)
 - [Paul Owoicho](https://www.linkedin.com/in/paulowoicho/) (Jan. 2021) ![](/assets/img/Paul_Owoicho.jpg =250x) 
 The working title of Paul Owoicho’s thesis is “Learning to Ask” for Effective Conversational Search. The goal is to research conversational search systems and create a dynamic search agent that “learns to ask” the right questions from the user at the right time, to carry out an efficient information-seeking task.
-Twitter: [@ogbonokopaul](https://twitter.com/ogbonokopaul]
+Twitter: [@ogbonokopaul](https://twitter.com/ogbonokopaul)
 
 ### Research Assistants
 - [Zay-yar Tun](https://uk.linkedin.com/in/zay-yar-tun-668411153) ![](/assets/img/zay-yar-sm.jpeg =250x) 
