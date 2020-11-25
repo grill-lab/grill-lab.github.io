@@ -16,12 +16,12 @@ Twitter: [@aquaktus](https://twitter.com/aquaktus?lang=en)
 - Federico Rosetto
 - Iain Mackie 
 - Yola Jones (joint with MVLS)
-- [Paul Owoicho](https://www.linkedin.com/in/paulowoicho/) (Jan. 2021) <br> <img src="/assets/img/Paul_Owoicho.jpg" height="100px" style="float: left; margin-right: 20px;"><br>
+- [Paul Owoicho](https://www.linkedin.com/in/paulowoicho/) (Jan. 2021) <br> <img src="/assets/img/Paul_Owoicho.jpg" height="100px" style="float: left; margin-right: 20px;">
 The working title of Paul Owoicho’s thesis is “Learning to Ask” for Effective Conversational Search. The goal is to research conversational search systems and create a dynamic search agent that “learns to ask” the right questions from the user at the right time, to carry out an efficient information-seeking task. <br>
 Twitter: [@ogbonokopaul](https://twitter.com/ogbonokopaul)
 
 ### Research Assistants
-- [Zay-yar Tun](https://uk.linkedin.com/in/zay-yar-tun-668411153) <br> <img src="/assets/img/zay-yar-sm.jpeg" height="100px" style="float: left; margin-right: 20px;"><br> 
+- [Zay-yar Tun](https://uk.linkedin.com/in/zay-yar-tun-668411153) <br> <img src="/assets/img/zay-yar-sm.jpeg" height="100px" style="float: left; margin-right: 20px;">
 Researching on improving various conversational capabilities of Beeb, a voice assistant from the BBC.
 
 ### Research Interns
