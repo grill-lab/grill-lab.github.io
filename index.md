@@ -1,7 +1,7 @@
 ---
 layout: home
 title: GRILL Lab
-subtitle: Glasgow Repsentation and InformationaL Learning Lab
+subtitle: Glasgow Representation and Information Learning Lab
 ---
 
 The Glasgow Representation and Information Learning Lab, or GRILL for short, is a research group in the [School of Computing Science](https://www.gla.ac.uk/schools/computing/) at the [University of Glasgow](https://www.gla.ac.uk/).  We are part of the [Information, Data and Analysis](https://www.gla.ac.uk/schools/computing/research/researchsections/ida-section/) Section and world-leading [Information Retrieval](https://www.gla.ac.uk/schools/computing/research/researchsections/ida-section/informationretrieval/) group.
