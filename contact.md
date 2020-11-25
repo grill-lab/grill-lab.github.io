@@ -4,8 +4,9 @@ title: Contact Us
 subtitle: 
 ---
 
+## Location
 The GRILL Lab (S154). 
-Department of Computing Science. 
+School of Computing Science. 
 University of Glasgow. 
 Glasgow G12 8RZ. 
 Scotland, UK. 
