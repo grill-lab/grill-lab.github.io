@@ -6,7 +6,6 @@ subtitle:
 
 ## Location
 The GRILL Lab (S154)  
-
 School of Computing Science  
 University of Glasgow  
 Glasgow G12 8RZ  
