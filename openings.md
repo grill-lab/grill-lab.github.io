@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Openings and Opportunities
+title: Opportunities
 subtitle: 
 ---
 
 ### Research Associates
-We currently have multiple open positions:
+We currently have multiple open positions for talented researchers in a growing group:
  - Research Assistants
  - Post-doctoral Research Associates
  - Research Software Engineers
