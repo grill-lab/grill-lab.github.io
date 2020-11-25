@@ -22,7 +22,7 @@ Twitter: [@ogbonokopaul](https://twitter.com/ogbonokopaul)
 
 ### Research Assistants
 - [Zay-yar Tun](https://uk.linkedin.com/in/zay-yar-tun-668411153) <br> <img src="/assets/img/zay-yar-sm.jpeg" width="100px" style="float: left; margin-right: 20px;">
-Researching on improving various conversational capabilities of Beeb, a voice assistant from the BBC.
+Researching on improving various conversational capabilities of Beeb, a voice assistant from the BBC. <br>
 
 ### Research Interns
 - Enrico Trombetta
