@@ -11,7 +11,7 @@ subtitle:
 
 
 ### PhD Students
-- [Carlos Gemmell](https://aquaktus.github.io) <br>  <img src="/assets/img/carlos_gemmell.jpeg" height="100px" style="float: left;"> Carlos' research sits at the intersection of NLP, conversational systems, and semantic parsing. He uses machine learning to deepen human-machine collaboration by breaking down structured tasks like programming into a conversation. <br>
+- [Carlos Gemmell](https://aquaktus.github.io) <br>  <img src="/assets/img/carlos_gemmell.jpeg" height="100px" style="float: left; margin-right: 30px;"> Carlos' research sits at the intersection of NLP, conversational systems, and semantic parsing. He uses machine learning to deepen human-machine collaboration by breaking down structured tasks like programming into a conversation. <br>
 Twitter: [@aquaktus](https://twitter.com/aquaktus?lang=en)
 - Federico Rosetto
 - Iain Mackie 
