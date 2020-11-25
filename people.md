@@ -22,6 +22,7 @@ Twitter: [@iain_with_2is](https://twitter.com/iain_with_2is)
 [Paul Owoicho](https://www.linkedin.com/in/paulowoicho/) (Jan. 2021) <br> <img src="/assets/img/Paul_Owoicho.jpg" width="100px" style="float: left; margin-right: 20px;"> Studies the use of mixed-initiative and feedback in Conversational Information Seeking.  
 Twitter: [@ogbonokopaul](https://twitter.com/ogbonokopaul)  
 
+  
 [Yola Jones](https://uk.linkedin.com/in/yola-jones-6a6b0512b) (joint with MVLS) <img src="/assets/img/yola_jones.jpg" width="100px" style="float: left; margin-right: 20px;"> Works on with machine learning to predict those at risk of sudden death and other catastrophic events using electronic health records and focusing on cardiovascular disease.  
 
 ### Research Assistants
