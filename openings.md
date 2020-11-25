@@ -10,7 +10,7 @@ We currently have multiple open positions for talented researchers in a growing 
  - Post-doctoral Research Associates
  - Research Software Engineers
 
-Please [contact us](contact) for details.
+Please [contact us](../contact) for details.
 
 ### Prospective PhD students
 We are looking for motivated and talented students who are interested in text understanding, dialogue, and information seeking (information retrieval). 
