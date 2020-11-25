@@ -25,7 +25,7 @@ Twitter: [@ogbonokopaul](https://twitter.com/ogbonokopaul)
 [Yola Jones](https://uk.linkedin.com/in/yola-jones-6a6b0512b) (joint with MVLS) <img src="/assets/img/yola_jones.jpg" width="100px" style="float: left; margin-right: 20px;"> Works on with machine learning to predict those at risk of sudden death and other catastrophic events using electronic health records and focusing on cardiovascular disease.  
 
 ### Research Assistants
-[Zay-yar Tun](https://uk.linkedin.com/in/zay-yar-tun-668411153) <br> <img src="/assets/img/zay-yar-sm.jpeg" width="100px" style="float: left; margin-right: 20px;"> Researching on improving various conversational capabilities of Beeb, a voice assistant from the BBC. 
+[Zay-yar Tun](https://uk.linkedin.com/in/zay-yar-tun-668411153) <br> <img src="/assets/img/zay-yar-sm.jpeg" width="100px" style="float: left; margin-right: 20px;"> Develops new methods for improving social content discovery for the BBC's voice assistant, Beeb. 
 
 
 ### Research Interns
