@@ -9,7 +9,7 @@ subtitle:
  
  - Aliannejadi, M., Kiseleva, J., Chuklin, A., Dalton, J., & Burtsev, M. (2020). *ConvAI3: Generating Clarifying Questions for Open-Domain Dialogue Systems (ClariQ)*. ArXiv, abs/2009.11352.
  
- - Jones, Y., Deligianni, F. and Dalton, J. *Improving ECG Classification Interpretability Using Saliency Maps*. In: 20th IEEE International Conference on BioInformatics and BioEngineering, Online Only, 26-28 Oct 2020
+ - Jones, Y., Deligianni, F. and Dalton, J. *Improving ECG Classification Interpretability Using Saliency Maps*. In: 20th IEEE International Conference on BioInformatics and BioEngineering, Online Only, 26-28 Oct 2020 **(Best Paper Award)**
  
  - Czyzewski, A., Dalton, J. and Leuski, A.  *Agent Dialogue: A Platform for Conversational Information Seeking Experimentation*. In: 43rd International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR 2020), Xi'an, China, 25-30 Jul 2020, pp. 2121-2124.
  
