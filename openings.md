@@ -6,9 +6,9 @@ subtitle:
 
 ### Research Associates
 We currently have multiple open positions:
- - Research assistants
- - Post-docs
- - Research software engineers
+ - Research Assistants
+ - Post-doctoral Research Associates
+ - Research Software Engineers
 
 Please [contact us](contact) for details.
 
