@@ -9,6 +9,9 @@ subtitle:
 ### Principle Investigator
 - [Jeff Dalton](https://www.gla.ac.uk/schools/computing/staff/jeffdalton/) <br> <img src="/assets/img/jeff_dalton.jpeg" width="100px" style="float: left; margin-right: 20px;"> Lecturer (tenure-track Assistant Professor)
 
+<br>
+<br>
+
 
 ### PhD Students
 [Carlos Gemmell](https://aquaktus.github.io) <br>  <img src="/assets/img/carlos_gemmell.jpeg" width="100px" style="float: left; margin-right: 20px;">  Develops new machine learning methods to deepen human-machine collaboration by breaking down structured tasks like programming into a conversation.  
