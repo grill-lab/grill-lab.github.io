@@ -7,7 +7,8 @@ subtitle:
 ## Current Lab Members
 
 ### Principle Investigator
-**[Jeff Dalton](https://www.gla.ac.uk/schools/computing/staff/jeffdalton/)** <br> <img src="/assets/img/jeff_dalton.jpeg" width="100px" style="float: left; margin-right: 20px;"> Lecturer (tenure-track Assistant Professor)  His main research interests focus on the intersection of natural language understanding and information seeking for complex tasks.  
+**[Jeff Dalton](https://www.gla.ac.uk/schools/computing/staff/jeffdalton/)** <br> <img src="/assets/img/jeff_dalton.jpeg" width="100px" style="float: left; margin-right: 20px;"> Lecturer (tenure-track Assistant Professor)  
+His main research interests focus on the intersection of natural language understanding and information seeking for complex tasks.  
 <img src="/assets/img/Twitter_Logo_Blue.png" width="30px"> [@jeffd](https://twitter.com/jeffd)
 <br>  
 
