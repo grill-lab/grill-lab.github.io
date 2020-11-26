@@ -4,10 +4,19 @@ title: Projects
 subtitle: 
 ---
 
+## Industry Collaboration
+Our group collaborates on research projects with a variety of companies and agencies:
+ - Bloomberg
+ - MoodAgent 
+ - Monzo 
+ - BBC Scotland
+ - U.S. NIST 
+If you're interested in collaborating on research there are opportunities for industrial PhDs, visiting researchers, and others.  Please [contact us](../contact) to discuss details. 
+
 ## Current Projects
 
 ### TREC Conversational Assistance Track (CAsT)
-We are one of the lead organizers of the TREC CAsT track, to develop reusable benchmark collections for Conversational Information Seeking. Pleasee see the [CAsT website](https://treccast.ai) for details. 
+We are one of the lead organizers of the TREC CAsT track, to develop reusable benchmark collections for Conversational Information Seeking. Please see the [CAsT website](https://treccast.ai) for details. 
 
 ### BBC - ‘Social’ Discovery of News and Media Content for Beeb
 This is a joint project with the BBC Voice and AI group in Glasgow to research content discovery via the [Beeb Assistant](https://www.bbc.co.uk/news/technology-52891155). 
