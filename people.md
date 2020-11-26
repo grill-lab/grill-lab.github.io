@@ -26,7 +26,7 @@ His main research interests focus on the intersection of natural language unders
 <img src="/assets/img/Twitter_Logo_Blue.png" width="30px"> [@ogbonokopaul](https://twitter.com/ogbonokopaul)  
 <br>  
   
-**[Federico Rossetto]()** <br> <img src="/assets/img/federico_rossetto.jpg" width="100px" style="float: left; margin-right: 20px;"> Develops new methods for Music Representation Learning and Conditional Conversation Generation. <br>
+**[Federico Rossetto](https://www.linkedin.com/in/federico-rossetto-819b36140/)** <br> <img src="/assets/img/federico_rossetto.jpg" width="100px" style="float: left; margin-right: 20px;"> Develops new methods for Music Representation Learning and Conditional Conversation Generation. <br>
 <img src="/assets/img/Twitter_Logo_Blue.png" width="30px">[@FedingoRoss91](https://twitter.com/FedingoRoss91)
 <br>  
 <br> 
