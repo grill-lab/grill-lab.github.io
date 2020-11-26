@@ -12,7 +12,7 @@ Glasgow G12 8RZ
 Scotland, UK  
 
 ## E-mail 
-jeff.dalton {at} glasgow.ac.uk
+<i class="fas fa-envelope"></i> jeff.dalton {at} glasgow.ac.uk
 
 ## Phone
 (+44) 0141 330 4470 
