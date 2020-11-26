@@ -25,7 +25,8 @@ Iain Mackie <br> <img src="/assets/img/Iain_photo.jpeg" width="100px" style="flo
 
 [Paul Owoicho](https://www.linkedin.com/in/paulowoicho/) (starting Jan. 2021) <br> <img src="/assets/img/Paul_Owoicho.jpg" width="100px" style="float: left; margin-right: 20px;"> Studies the use of mixed-initiative and feedback for open-domain Conversational Information Seeking.  
 <img src="/assets/img/Twitter_Logo_Blue.png" width="30px"> [@ogbonokopaul](https://twitter.com/ogbonokopaul)  
-<br>
+<br>  
+<br>  
   
 [Federico Rosetto]() 
 <img src="/assets/img/Twitter_Logo_Blue.png" width="30px">[@FedingoRoss91](https://twitter.com/FedingoRoss91)
