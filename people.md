@@ -14,27 +14,27 @@ subtitle:
 
 
 ### PhD Students
-[Carlos Gemmell](https://aquaktus.github.io) <br>  <img src="/assets/img/carlos_gemmell.jpeg" width="100px" style="float: left; margin-right: 20px;">  Develops new machine learning methods to deepen human-machine collaboration by breaking down structured tasks like programming into a conversation.  
+**[Carlos Gemmell](https://aquaktus.github.io)** <br>  <img src="/assets/img/carlos_gemmell.jpeg" width="100px" style="float: left; margin-right: 20px;">  Develops new machine learning methods to deepen human-machine collaboration by breaking down structured tasks like programming into a conversation.  
 <img src="/assets/img/Twitter_Logo_Blue.png" width="30px"> [@aquaktus](https://twitter.com/aquaktus)
 
-[Yola Jones](https://uk.linkedin.com/in/yola-jones-6a6b0512b) (joint with MVLS)<br> <img src="/assets/img/yola_jones.jpg" width="100px" style="float: left; margin-right: 20px;"> Develops machine learning to predict those at risk of sudden death and other catastrophic events using electronic health records and focusing on cardiovascular disease.  
+**[Yola Jones](https://uk.linkedin.com/in/yola-jones-6a6b0512b)** (joint with MVLS)<br> <img src="/assets/img/yola_jones.jpg" width="100px" style="float: left; margin-right: 20px;"> Develops machine learning to predict those at risk of sudden death and other catastrophic events using electronic health records and focusing on cardiovascular disease.  
 <img src="/assets/img/Twitter_Logo_Blue.png" width="30px">[@jones_yola](https://twitter.com/jones_yola)
 
-Iain Mackie <br> <img src="/assets/img/Iain_photo.jpeg" width="100px" style="float: left; margin-right: 20px;"> Develops new methods based on deep learning for information extraction and knowledge-centric ranking tasks.   
+**Iain Mackie** <br> <img src="/assets/img/Iain_photo.jpeg" width="100px" style="float: left; margin-right: 20px;"> Develops new methods based on deep learning for information extraction and knowledge-centric ranking tasks.   
 <img src="/assets/img/Twitter_Logo_Blue.png" width="30px"> [@iain_with_2is](https://twitter.com/iain_with_2is)
 
-[Paul Owoicho](https://www.linkedin.com/in/paulowoicho/) (starting Jan. 2021) <br> <img src="/assets/img/Paul_Owoicho.jpg" width="100px" style="float: left; margin-right: 20px;"> Studies the use of mixed-initiative and feedback for open-domain Conversational Information Seeking.  
+**[Paul Owoicho](https://www.linkedin.com/in/paulowoicho/)** (starting Jan. 2021) <br> <img src="/assets/img/Paul_Owoicho.jpg" width="100px" style="float: left; margin-right: 20px;"> Studies the use of mixed-initiative and feedback for open-domain Conversational Information Seeking.  
 <img src="/assets/img/Twitter_Logo_Blue.png" width="30px"> [@ogbonokopaul](https://twitter.com/ogbonokopaul)  
 <br>  
 <br>  
   
-[Federico Rosetto]() 
+**[Federico Rosetto]()** 
 <img src="/assets/img/Twitter_Logo_Blue.png" width="30px">[@FedingoRoss91](https://twitter.com/FedingoRoss91)
 
-[Francesco Dalla Serra]() <br>  Develops multi-modal question answering as part of his industrial PhD in conjunction with Canon Medical. 
+**[Francesco Dalla Serra]()** <br>  Develops multi-modal question answering as part of his industrial PhD in conjunction with Canon Medical. 
 
 ### Research Assistants
-[Zay-yar Tun](https://uk.linkedin.com/in/zay-yar-tun-668411153) <br> <img src="/assets/img/zay-yar-sm.jpeg" width="100px" style="float: left; margin-right: 20px;"> Develops new methods for improving social content discovery for the BBC's voice assistant, Beeb. 
+**[Zay-yar Tun](https://uk.linkedin.com/in/zay-yar-tun-668411153)** <br> <img src="/assets/img/zay-yar-sm.jpeg" width="100px" style="float: left; margin-right: 20px;"> Develops new methods for improving social content discovery for the BBC's voice assistant, Beeb. 
 <img src="/assets/img/Twitter_Logo_Blue.png" width="30px">  
 <br>  
   
