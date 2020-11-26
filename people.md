@@ -35,7 +35,12 @@ Iain Mackie <br> <img src="/assets/img/Iain_photo.jpeg" width="100px" style="flo
 [Zay-yar Tun](https://uk.linkedin.com/in/zay-yar-tun-668411153) <br> <img src="/assets/img/zay-yar-sm.jpeg" width="100px" style="float: left; margin-right: 20px;"> Develops new methods for improving social content discovery for the BBC's voice assistant, Beeb. 
 <img src="/assets/img/Twitter_Logo_Blue.png" width="30px">
   
-  
+## Academic Collaborators
+- [Anton Leuski](https://ict.usc.edu/profile/anton-leuski/) - USC ICT
+- [Shahrzad Naseri](https://people.cs.umass.edu/~shnaseri/) - UMass CIIR
+- [Laura Dietz](https://www.cs.unh.edu/~dietz/) - UNH
+- [Leif Azzopardi](http://www.dcs.gla.ac.uk/~leif/) - Strathyclyde
+- Glasgow [Terrier Team](http://terrierteam.dcs.gla.ac.uk/)
 
 ## Past Lab Members 
 
