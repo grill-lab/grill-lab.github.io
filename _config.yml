@@ -3,6 +3,8 @@
 # set up your website you should go through all these settings and edit them, but after
 # the initial set up you won't need to come back to this file often.
 
+head-extra: '<link rel="shortcut icon" type="image/x-icon" href="assets/img/favicon.ico">'
+
 # --- Required options --- #
 
 # Name of website
