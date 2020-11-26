@@ -11,6 +11,7 @@ Our group collaborates on research projects with a variety of companies and agen
  - Monzo 
  - BBC Scotland
  - U.S. NIST 
+ 
 If you're interested in collaborating on research there are opportunities for industrial PhDs, visiting researchers, and others.  Please [contact us](../contact) to discuss details. 
 
 ## Current Projects
