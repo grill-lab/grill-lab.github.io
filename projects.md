@@ -6,7 +6,7 @@ subtitle:
 
 ## Industry Collaboration
 Our group collaborates with researchers from a variety of companies and agencies, including:
- - Large companies: Google, Microsoft, Bloomberg
+ - Large companies: Google, Microsoft, Bloomberg, Canon Medical
  - Startups: MoodAgent, PolyAI, Monzo 
  - Agencies: BBC Scotland, U.S. NIST 
  
