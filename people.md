@@ -31,7 +31,7 @@ Iain Mackie <br> <img src="/assets/img/Iain_photo.jpeg" width="100px" style="flo
 [Federico Rosetto]() 
 <img src="/assets/img/Twitter_Logo_Blue.png" width="30px">[@FedingoRoss91](https://twitter.com/FedingoRoss91)
 
-[Francesco Dalla Serra]() Develops multi-modal question answering as part of his industrial PhD in conjunction with Canon Medical. 
+[Francesco Dalla Serra]() <br>  Develops multi-modal question answering as part of his industrial PhD in conjunction with Canon Medical. 
 
 ### Research Assistants
 [Zay-yar Tun](https://uk.linkedin.com/in/zay-yar-tun-668411153) <br> <img src="/assets/img/zay-yar-sm.jpeg" width="100px" style="float: left; margin-right: 20px;"> Develops new methods for improving social content discovery for the BBC's voice assistant, Beeb. 
@@ -40,6 +40,7 @@ Iain Mackie <br> <img src="/assets/img/Iain_photo.jpeg" width="100px" style="flo
   
 ## Academic Collaborators
 - [Anton Leuski](https://ict.usc.edu/profile/anton-leuski/) - USC ICT
+- [Emine Yilmaz](https://sites.google.com/site/emineyilmaz/) - UCL
 - [Shahrzad Naseri](https://people.cs.umass.edu/~shnaseri/) - UMass CIIR
 - [Laura Dietz](https://www.cs.unh.edu/~dietz/) - UNH
 - [Leif Azzopardi](http://www.dcs.gla.ac.uk/~leif/) - Strathyclyde
