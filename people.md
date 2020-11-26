@@ -24,7 +24,8 @@ His main research interests focus on the intersection of natural language unders
 
 **[Paul Owoicho](https://www.linkedin.com/in/paulowoicho/)** (starting Jan. 2021) <br> <img src="/assets/img/Paul_Owoicho.jpg" width="100px" style="float: left; margin-right: 20px;"> Studies the use of mixed-initiative and feedback for open-domain Conversational Information Seeking.  
 <img src="/assets/img/Twitter_Logo_Blue.png" width="30px"> [@ogbonokopaul](https://twitter.com/ogbonokopaul)  
-<br>  
+<br> 
+<br>
   
 **[Federico Rossetto](https://www.linkedin.com/in/federico-rossetto-819b36140/)** <br> <img src="/assets/img/federico_rossetto.jpg" width="100px" style="float: left; margin-right: 20px;"> Develops new methods for Music Representation Learning and Conditional Conversation Generation. <br>
 <img src="/assets/img/Twitter_Logo_Blue.png" width="30px">[@FedingoRoss91](https://twitter.com/FedingoRoss91)
@@ -34,6 +35,7 @@ His main research interests focus on the intersection of natural language unders
 
 **[Francesco Dalla Serra](https://uk.linkedin.com/in/francesco-dalla-serra-419984142)** (joint with Canon & Dr Deligianni)<br>  <img src="/assets/img/francesco_dalla_serra.jpg" width="100px" style="float: left; margin-right: 20px;"> Develops multi-modal visual question answering for medical applications as part of his industrial PhD in conjunction with Canon Medical. 
 <br>
+<br> 
 
 ### Research Assistants
 **[Zay-yar Tun](https://uk.linkedin.com/in/zay-yar-tun-668411153)** <br> <img src="/assets/img/zay-yar-sm.jpeg" width="100px" style="float: left; margin-right: 20px;"> Develops new methods for improving social content discovery for the BBC's voice assistant, Beeb. 
