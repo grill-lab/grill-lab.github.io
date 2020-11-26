@@ -29,7 +29,7 @@ subtitle:
 **[Federico Rosetto]()** 
 <img src="/assets/img/Twitter_Logo_Blue.png" width="30px">[@FedingoRoss91](https://twitter.com/FedingoRoss91)
 
-**[Francesco Dalla Serra]()** <br>  Develops multi-modal question answering as part of his industrial PhD in conjunction with Canon Medical. 
+**[Francesco Dalla Serra]()** (joint with Cannon & Dr Deligianni)<br>  Develops multi-modal question answering as part of his industrial PhD in conjunction with Canon Medical. 
 
 ### Research Assistants
 **[Zay-yar Tun](https://uk.linkedin.com/in/zay-yar-tun-668411153)** <br> <img src="/assets/img/zay-yar-sm.jpeg" width="100px" style="float: left; margin-right: 20px;"> Develops new methods for improving social content discovery for the BBC's voice assistant, Beeb. 
