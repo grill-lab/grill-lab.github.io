@@ -5,7 +5,7 @@ subtitle:
 ---
 
 ## Industry Collaboration
-Our group collaborates on research projects with a variety of companies and agencies:
+Our group collaborates on research with a variety of companies and agencies:
  - Bloomberg
  - MoodAgent 
  - Monzo 
