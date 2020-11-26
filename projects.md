@@ -5,12 +5,10 @@ subtitle:
 ---
 
 ## Industry Collaboration
-Our group collaborates on research with a variety of companies and agencies:
- - Bloomberg
- - MoodAgent 
- - Monzo 
- - BBC Scotland
- - U.S. NIST 
+Our group collaborates with researchers from a variety of companies and agencies, including:
+ - Large companies: Google, Microsoft, Bloomberg
+ - Startups: MoodAgent, PolyAI, Monzo 
+ - Agencies: BBC Scotland, U.S. NIST 
  
 If you're interested in collaborating on research there are opportunities for industrial PhDs, visiting researchers, and others.  Please [contact us](../contact) to discuss details. 
 
