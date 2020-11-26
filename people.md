@@ -28,8 +28,12 @@ His main research interests focus on the intersection of natural language unders
 <br>  
   
 **[Federico Rossetto]()**
-<img src="/assets/img/federico_rossetto.jpg" width="100px" style="float: left; margin-right: 20px;"> Develops new methods for Music Representation Learning and Conditional Conversation Generation. 
+<img src="/assets/img/federico_rossetto.jpg" width="100px" style="float: left; margin-right: 20px;"> Develops new methods for Music Representation Learning and Conditional Conversation Generation.
+
 <img src="/assets/img/Twitter_Logo_Blue.png" width="30px">[@FedingoRoss91](https://twitter.com/FedingoRoss91)
+
+<br>  
+<br> 
 
 **[Francesco Dalla Serra](https://uk.linkedin.com/in/francesco-dalla-serra-419984142)** (joint with Canon & Dr Deligianni)<br>  <img src="/assets/img/francesco_dalla_serra.jpg" width="100px" style="float: left; margin-right: 20px;"> Develops multi-modal visual question answering for medical applications as part of his industrial PhD in conjunction with Canon Medical. 
 
