@@ -4,7 +4,7 @@ title: Opportunities
 subtitle: 
 ---
 
-### Research Associates
+### Research staff
 We currently have multiple open positions for talented researchers in a growing group:
  - Research Assistants
  - Post-doctoral Research Associates
