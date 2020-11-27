@@ -5,7 +5,7 @@ thumbnail: "https://www.turing.ac.uk/sites/default/files/styles/medium/public/20
 description: Jobs and positions available in GRILL Lab as part of Turing AI Fellowship
 ---
 We are honoured to share that Dr Dalton is one of the fifteen recipients of the prestigious [Turing AI Acceleration fellowship](https://www.gla.ac.uk/news/headline_764613_en.html).  
-It is a five year fellowship from UKRI in collaboration with [Alan Turing Institute](https://www.turing.ac.uk/) on  "Neural Conversational Information Assistants". See the [official AI Fellowship Announcement](https://www.ukri.org/news/new-turing-ai-fellows-to-deliver-world-class-ai-research/) and the [Fellowship description](https://www.turing.ac.uk/work-turing/research-and-funding-calls/ai-fellowships). Associated with the Fellowship there are multiple PhD positions as well as post-doctoral research associate opportunities available in the GRILL Lab.  
+It is a five year fellowship from UKRI in collaboration with Alan Turing Institute on  "Neural Conversational Information Assistants". See the [official AI Fellowship Announcement](https://www.ukri.org/news/new-turing-ai-fellows-to-deliver-world-class-ai-research/). Associated with the Fellowship there are multiple PhD positions as well as post-doctoral research associate opportunities that will be available in the GRILL Lab.  
 
 For context: “The Turing AI Acceleration Fellowships will support some of our leading researchers to progress their careers and develop ground-breaking AI technologies with societal impact. 
 By enhancing collaboration between academia and industry and accelerating these transformative technologies these Fellowships will help to maintain and build on the UK’s position as a world leader in AI.”
