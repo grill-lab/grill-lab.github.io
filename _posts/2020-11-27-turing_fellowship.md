@@ -4,7 +4,7 @@ title: Turing AI Acceleration Fellowship Opportunities
 thumbnail: "https://www.turing.ac.uk/sites/default/files/styles/medium/public/2019-12/ai_fellowships.jpg"
 description: Jobs and positions available in GRILL Lab as part of Turing AI Fellowship
 ---
-We are honoured to share that Dr Dalton is one of the fifteen recipients of the prestigious [Turing AI Acceleration fellowship](https://www.turing.ac.uk/work-turing/research-and-funding-calls/ai-fellowships).  
+We are honoured to share that Dr Dalton is one of the fifteen recipients of the prestigious [Turing AI Acceleration fellowship](https://www.gla.ac.uk/news/headline_764613_en.html).  
 It is a five year fellowship from UKRI in collaboration with [Alan Turing Institute](https://www.turing.ac.uk/). 
 
 For context: “The Turing AI Acceleration Fellowships will support some of our leading researchers to progress their careers and develop ground-breaking AI technologies with societal impact. 
