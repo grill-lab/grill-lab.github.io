@@ -39,7 +39,6 @@ His main research interests focus on the intersection of natural language unders
 
 ### Research Assistants
 **[Zay-yar Tun](https://uk.linkedin.com/in/zay-yar-tun-668411153)** <br> <img src="/assets/img/zay-yar-sm.jpeg" width="100px" style="float: left; margin-right: 20px;"> Develops new methods for improving social content discovery for the BBC's voice assistant, Beeb. 
-<img src="/assets/img/Twitter_Logo_Blue.png" width="30px">  [@ogbonokopaul](https://twitter.com/ogbonokopaul)  
 <br>  
   
 ## Academic Collaborators
