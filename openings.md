@@ -5,7 +5,7 @@ subtitle:
 ---
 
 ### <span style="color:red">New:</span> Research Assistant
-We're [hiring for a Research Assistant](../researchassistant.md) to work on an Amazon funded project on knowledge-grounded conversational assistants. 
+We're [hiring for a Research Assistant](../researchassistant) to work on an Amazon funded project on knowledge-grounded conversational assistants. 
 
 
 ### Research staff
