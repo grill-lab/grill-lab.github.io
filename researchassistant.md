@@ -15,7 +15,7 @@ It is funded by an Amazon Research Award with collaborators at Amazon and Anton 
 This post qualifies for a work visa and is open to international applicants. Remote work within the UK is possible given current conditions. 
 
 ### Apply Now
-[Apply on Core HR](https://my.corehr.com/pls/uogrecruit/erq_jobspec_version_4.display_form)
+[Apply on Core HR](https://my.corehr.com/pls/uogrecruit/erq_jobspec_version_4.jobspec?p_id=045086)
 
 ### Other opportunities
 We also have other opportunities for postdocs and research engineers! 
