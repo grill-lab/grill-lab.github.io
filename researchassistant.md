@@ -1,9 +1,11 @@
 ---
 layout: page
-title: Now hiring: Research assistant in Conversational AI
+title: Research Assistant Job
 subtitle: 
 ---
-### Hiring: Research Assistant on Knowledge Grounded Product Information Seeking
+### Now Hiring! 
+
+## Research Assistant on Knowledge Grounded Product Information Seeking
 The goal of this 12-month project is to perform research and development on creating an engaging and informative conversational e-commerce agent. Our vision is to use product knowledge bases and expert reviews to facilitate the agent’s interaction to inform a potential customer. This project is funded by an Amazon Faculty Award. The successful candidate will also be expected to contribute to the formulation and submission of research publications and research proposals as well as help manage and direct this complex and challenging project as opportunities allow.
 
 This will involve development of novel deep learning methods for conversational QA, information extraction, and knowledge grounded reasoning. 
