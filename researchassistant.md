@@ -17,4 +17,7 @@ This post qualifies for a work visa and is open to international applicants. Rem
 ### Apply Now
 [Apply on Core HR](https://my.corehr.com/pls/uogrecruit/erq_jobspec_version_4.display_form)
 
+### Other opportunities
+We also have other opportunities for postdocs and research engineers! 
+
 Please [contact us](../contact) for more details.
