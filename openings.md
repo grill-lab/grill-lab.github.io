@@ -4,6 +4,10 @@ title: Opportunities
 subtitle: 
 ---
 
+### <span style="color:red">New:</span> Research Assistant
+We're [hiring for a Research Assistant](../researchassistant.md) to work on an Amazon funded project on knowledge-grounded conversational assistants. 
+
+
 ### Research staff
 We currently have multiple open positions for talented researchers in a growing group:
  - Research Assistants
