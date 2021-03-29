@@ -4,7 +4,7 @@ title: Opportunities
 subtitle: 
 ---
 
-### <span style="color:red">New:</span> Research Assistant
+### <span style="color:red">New:</span> Research Associate (Postdoc)
 We're [hiring for a Research Associate (Postdoc)](../researchassociate) to work on Neural models for open-domain conversational information assistants. 
 
 Please [contact us](../contact) for details.
