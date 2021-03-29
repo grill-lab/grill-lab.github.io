@@ -5,14 +5,7 @@ subtitle:
 ---
 
 ### <span style="color:red">New:</span> Research Assistant
-We're [hiring for a Research Assistant](../researchassistant) to work on an Amazon funded project on knowledge-grounded conversational assistants. 
-
-
-### Research staff
-We currently have multiple open positions for talented researchers in a growing group:
- - Research Assistants
- - Post-doctoral Research Associates
- - Research Software Engineers
+We're [hiring for a Research Associate (Postdoc)](../researchassociate) to work on Neural models for open-domain conversational information assistants. 
 
 Please [contact us](../contact) for details.
 
