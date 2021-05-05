@@ -6,16 +6,25 @@ subtitle:
 ### Now Hiring! 
 
 #### Research Associate (Postdoc) position on Neural Conversational AI 
-This position is a an intial two year position with funding available for follow-on positions. You will make a leading contribution to the UKRI funded Turing AI Acceleration Fellowship, "Neural Conversational Information Seeking Assistants". 
+We seek a candidate who will lead and contribute to research projects on open-domain conversational artificial intelligence at the intersection of NLP, ML, and Information Retrieval. Our goal is to make significant advances to open-domain conversational assistants by bridging search-based information agents and neural-symbolic reasoning. This includes research on open-domain long-form question answering, explainable AI, automatic knowledge base construction, and conversational search/task-based dialogue systems. The ideal candidate has in-depth knowledge of state-of-the-art neural language model architectures. Candidates should have a PhD (or equivalent qualification) or have held a previous postdoctoral position in machine learning, natural language processing, information retrieval, or related areas. Knowledge of machine learning (in particular deep learning) is essential.
 
-Its aim is to  make significant advances to open-domain conversational assistant systems by bridging search-based information agents and symbolic reasoning. The job requires expert knowledge of natural language understanding as well as expertise in open-domain question answering, explainable AI and/or information extraction, and information retrieval to apply them to conversational and/or task-based dialogue systems. 
-
-The successful candidate will also be expected to work with external project collaborators (BBC, Microsoft, Monzo, Salesforce, Google, PolyAI, the Alan Turing Institute, and others). This may include research visits at those companies and research institutes. The candidate will contribute to the formulation and submission of research publications and research proposals as well as help manage and direct this complex and challenging project as opportunities allow.
+The position is working with PI, Jeff Dalton, and is funded by a UKRI Turing AI Acceleration Fellowship in collaboration with the Alan Turing Institute on "Neural Conversational Information Seeking Assistants." The fellowship is part of a programme to attract talented AI researchers to the UK to promote transformative and innovative research. Benefits for research staff includes generous travel support and opportunities to collaborate with leading research groups (academic and industry) across the UK, Europe, and beyond. Involvement in teaching is possible, but not required. 
 
 This post qualifies for a work visa and is open to international applicants. Remote work within the UK is possible given current conditions. 
 
 ### Apply Now
-COMING SOON
+See the jobs.ac.uk [post](https://www.jobs.ac.uk/job/CFI659/research-associate).
+
+Applications can be submitted through Core HR
+[https://my.corehr.com/pls/uogrecruit/erq_jobspec_version_4.jobspec?p_id=055046](https://my.corehr.com/pls/uogrecruit/erq_jobspec_version_4.jobspec?p_id=055046)
+
+The closing date is May 12, 2021.
+
+### Environment
+The School is committed to promoting equality and diversity and holds an Athena Swan Bronze Award, including a supportive and flexible working environment. It is the University of Glasgow’s mission to foster an inclusive climate, which ensures equality in our working, learning, research and teaching environment. Consideration will be given to applicants who took a career break from research. Additional benefits include generous annual leave, training and development opportunities, great discounts from Glasgow businesses, state-of-the-art sports facilities, and other benefits.
+
+### Time frame
+The position is available from mid-2021, but there is flexibility on the starting date. It is initially for two years with additional funding and growth opportunities (funded via the Fellowship). 
 
 ### Other opportunities
 We also have funded PhD opportunities. 
