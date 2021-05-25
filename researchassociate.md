@@ -13,18 +13,13 @@ The position is working with PI, Jeff Dalton, and is funded by a UKRI Turing AI 
 This post qualifies for a work visa and is open to international applicants. Remote work within the UK is possible given current conditions. 
 
 ### Apply Now
-See the jobs.ac.uk [post](https://www.jobs.ac.uk/job/CFI659/research-associate).
-
-Applications can be submitted through Core HR
-[https://my.corehr.com/pls/uogrecruit/erq_jobspec_version_4.jobspec?p_id=055046](https://my.corehr.com/pls/uogrecruit/erq_jobspec_version_4.jobspec?p_id=055046)
-
-The closing date is May 12, 2021.
+Please email the PI for details on application. 
 
 ### Environment
 The School is committed to promoting equality and diversity and holds an Athena Swan Bronze Award, including a supportive and flexible working environment. It is the University of Glasgow’s mission to foster an inclusive climate, which ensures equality in our working, learning, research and teaching environment. Consideration will be given to applicants who took a career break from research. Additional benefits include generous annual leave, training and development opportunities, great discounts from Glasgow businesses, state-of-the-art sports facilities, and other benefits.
 
 ### Time frame
-The position is available from mid-2021, but there is flexibility on the starting date. It is initially for two years with additional funding and growth opportunities (funded via the Fellowship). 
+The position is available now, but there is flexibility on the starting date. It is initially for two years with additional funding and growth opportunities (funded via the Fellowship). 
 
 ### Other opportunities
 We also have funded PhD opportunities. 
