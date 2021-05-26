@@ -59,7 +59,7 @@ Although this is an ambitious vision beyond current
 capability, our team will make key advances towards this goal with
 multi-modal and visually grounded conversation capability.
 
-<img src="../assets/img/Taskmap_substitution.pdf">
+<img src="../assets/img/alexa_taskmap.png">
 
 <strong>Research</strong>
 
