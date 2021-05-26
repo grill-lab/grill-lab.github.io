@@ -37,6 +37,10 @@ His main research interests focus on the intersection of natural language unders
 <br>
 <br> 
 
+### MSci Students
+**Sophie Fisher <br> <img src="/assets/img/sophie_fisher.jpeg" width="100px" style="float: left; margin-right: 20px;"> Reseaarches task-based conversational agents and language understanding. <br><br> 
+<br>
+
 ### Research Assistants
 **[Zay-yar Tun](https://uk.linkedin.com/in/zay-yar-tun-668411153)** <br> <img src="/assets/img/zay-yar-sm.jpeg" width="100px" style="float: left; margin-right: 20px;"> Develops new methods for improving social content discovery for the BBC's voice assistant, Beeb. 
 <br>  <br><br>
@@ -54,4 +58,4 @@ His main research interests focus on the intersection of natural language unders
 
 ### Research Interns
 - Enrico Trombetta
-- Adam Czyzewski (now @ EPFL)
+- Adam Czyzewski (now @ Facebook)
