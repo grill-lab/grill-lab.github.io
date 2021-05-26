@@ -59,8 +59,6 @@ Although this is an ambitious vision beyond current
 capability, our team will make key advances towards this goal with
 multi-modal and visually grounded conversation capability.
 
-<img src="../assets/img/alexa_taskmap.png">
-
 <strong>Research</strong>
 
 Our scientific approach to the TaskBot challenge comes from our team’s background in the fields of Information Retrieval 
