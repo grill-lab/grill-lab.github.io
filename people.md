@@ -38,7 +38,7 @@ His main research interests focus on the intersection of natural language unders
 <br> 
 
 ### MSci Students
-**Sophie Fisher <br> <img src="/assets/img/sophie_fisher.jpeg" width="100px" style="float: left; margin-right: 20px;"> Reseaarches task-based conversational agents and language understanding.
+**[Sophie Fisher](https://twitter.com/sophie_fisch)** <br> <img src="/assets/img/sophie_fisher.jpeg" width="100px" style="float: left; margin-right: 20px;"> Reseaarches task-based conversational agents and language understanding.
 <img src="/assets/img/Twitter_Logo_Blue.png" width="30px"> [@sophie_fisch](https://twitter.com/sophie_fisch)  
 <br><br> 
 <br>
