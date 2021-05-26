@@ -22,7 +22,7 @@ His main research interests focus on the intersection of natural language unders
 **[Iain Mackie](https://iain-mackie.github.io)** <br> <img src="/assets/img/Iain_photo.jpeg" width="100px" style="float: left; margin-right: 20px;"> Develops new methods based on deep learning for information extraction and knowledge-centric ranking tasks.   
 <img src="/assets/img/Twitter_Logo_Blue.png" width="30px"> [@iain_with_2is](https://twitter.com/iain_with_2is)
 
-**[Paul Owoicho](https://www.linkedin.com/in/paulowoicho/)** (starting Jan. 2021) <br> <img src="/assets/img/Paul_Owoicho.jpg" width="100px" style="float: left; margin-right: 20px;"> Studies the use of mixed-initiative and feedback for open-domain Conversational Information Seeking.  
+**[Paul Owoicho](https://www.linkedin.com/in/paulowoicho/)** <br> <img src="/assets/img/Paul_Owoicho.jpg" width="100px" style="float: left; margin-right: 20px;"> Studies the use of mixed-initiative and feedback for open-domain Conversational Information Seeking.  
 <img src="/assets/img/Twitter_Logo_Blue.png" width="30px"> [@ogbonokopaul](https://twitter.com/ogbonokopaul)  
 <br> 
 <br>
@@ -38,7 +38,7 @@ His main research interests focus on the intersection of natural language unders
 <br> 
 
 ### MSci Students
-**[Sophie Fisher](https://twitter.com/sophie_fisch)** <br> <img src="/assets/img/sophie_fischer.jpeg" width="100px" style="float: left; margin-right: 20px;"> She develops multi-modal task-oriented conversational agents with focus on supporting question answering, recommendation and social chit-chat elements. Just like her bots, she likes to talk to people.
+**[Sophie Fisher](https://twitter.com/sophie_fisch)** <br> <img src="/assets/img/sophie_fischer.jpeg" width="100px" style="float: left; margin-right: 20px;"> She develops multi-modal task-oriented conversational agents with focus on supporting question answering, recommendation and social chit-chat elements. Just like her bots, she likes to talk to people. <br>
 <img src="/assets/img/Twitter_Logo_Blue.png" width="30px"> [@sophie_fisch](https://twitter.com/sophie_fisch)  
 <br><br> 
 <br>
