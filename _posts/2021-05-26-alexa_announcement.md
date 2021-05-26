@@ -8,7 +8,7 @@ description: Alexa TaskBot Challenge - Team Announcement
 <strong>Alexa TaskBot Challenge</strong>
 
 GRILL is one of just ten teams chosen by Amazon from more than 125 entries across 15 countries to 
-compete in the first Alexa Taskbot Challenge (<a href="https://developer.amazon.com/alexaprize">challenge description</a>). 
+compete in the first <a href="https://developer.amazon.com/alexaprize">Alexa Taskbot Challenge</a>. 
 The Glasgow team will receive a research grant of $250,000 (£176,500) and free access to Amazon Web Services.
 
 The GRILL team consists of School of Computing Science graduate students Sophie Fischer, Carlos Gemmell, Iain Mackie, 
