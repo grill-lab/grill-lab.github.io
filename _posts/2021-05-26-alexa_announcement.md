@@ -8,14 +8,13 @@ description: Alexa TaskBot Challenge - Team Announcement
 <strong>Alexa TaskBot Challenge</strong>
 
 GRILL is one of just ten teams chosen by Amazon from more than 125 entries across 15 countries to 
-compete in the first Alexa Taskbot Challenge (<a href="https://www.amazon.science/academic-engagements/ten-university-teams-selected-to-participate-in-alexa-prize-taskbot-challenge">link</a>). 
-The Glasgow team will receive a research grant of $250,000 (£176,500) to 
-help them over the next 12 months. They will also receive four Amazon Alexa devices, free access to Amazon Web Services, 
-and support from members of the Amazon Alexa team. 
+compete in the first Alexa Taskbot Challenge (<a href="https://developer.amazon.com/alexaprize">challenge description</a>). 
+The Glasgow team will receive a research grant of $250,000 (£176,500) and free access to Amazon Web Services.
 
 The GRILL team consists of School of Computing Science graduate students Sophie Fischer, Carlos Gemmell, Iain Mackie, 
 Paul Owoicho, and Federico Rossetto. Dr. Jeff Dalton is the team’s faculty advisor and will help guide the project.  
-Jeff is also a former Masterchef contestant appearing on the American version of the popular cooking program in 2011.
+Jeff will draw inspiration from his cooking background, having previously been a Masterchef contestant in the American 
+version in 2011.
 
 <img src="../assets/img/alexa_team.jpeg">
 
@@ -30,34 +29,7 @@ through it by reasoning over past interactions, a structured representation of t
 state-of-the-art neural deep learning models. Having access to Alexa users around the world will allow us to receive 
 real-time feedback and help us to make it an invaluable task assistant.”
 
-<img src="../assets/img/alexa_timeline.png">
-
-GRILL will be going head-to-head against 9 of the best conversational AI groups in the world, including: Carnegie Mellon University,
-National Taiwan University (NTU), NOVA School of Science and Technology (Portugal), Ohio State University,
-Texas A&M University, University College London, University of California Santa Barbara, University of Massachusetts (Amherst), 
-and University of Pennsylvania.
-
-<strong>Vision</strong>
-
-Imagine a future where you carefully planned a dinner party and
-a friend shows up at the last minute who is vegetarian and hates
-mushrooms. It throws your menu with chicken and mushroom
-risotto into chaos. You need to stay calm and adapt. 
-
-Luckily, GRILL's virtual assistant is there to help. 
-It can find a new recipe especially for them
-based on what you have or appropriate substitutions for your meal
-without compromising the menu. If you make a mistake, the agent
-is there to help you recover. Even better, it could actively assist
-you by preventing common mistakes in the first place. 
-
-The Taskbot understands what you’re doing and how you’re doing it by grounding 
-the conversation in domain knowledge and a task model. It is
-capable of clearly explaining the reason for adding cornstarch to
-your scrambled eggs and helping you diagnose your failed sourdough bread. 
-Although this is an ambitious vision beyond current
-capability, our team will make key advances towards this goal with
-multi-modal and visually grounded conversation capability.
+GRILL will be going head-to-head against 9 of the best conversational AI research groups in the world (<a href="https://www.amazon.science/academic-engagements/ten-university-teams-selected-to-participate-in-alexa-prize-taskbot-challenge">official announcement</a>).
 
 <strong>Research</strong>
 
