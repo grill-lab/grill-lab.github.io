@@ -11,7 +11,7 @@ There are openings for PhD students, PostDocs, and Research Software Engineers!
 Research Associate (Postdoc)
 We're [hiring for a Research Associate (Postdoc)](../researchassociate) to work on new deep learning models for conversational search and assistants. 
 
-Please [email_me](mailto:jeff.dalton@glasgow.ac.uk) for details.
+Please [email me](mailto:jeff.dalton@glasgow.ac.uk) for details.
 
 ### Prospective PhD students
 We are looking for motivated and talented students who are interested in text understanding, dialogue, and information seeking (information retrieval). 
