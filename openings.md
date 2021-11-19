@@ -5,13 +5,16 @@ subtitle:
 ---
 
 ### <span style="color:red">New:</span> Multiple Openings
+There are openings for PhD students, PostDocs, and Research Software Engineers as part of the "Neural Conversational Information Seeking Assistant" project focusing on new advanced in ML and NLP to drive conversational systems.
 
-There are openings for PhD students, PostDocs, and Research Software Engineers!
+- a fully-funded PhD studentship
+- a postdoc (or senior postdoc)
+- a research software engineer
+
+All positions are open for start in 2022. Please [email the PI](mailto:jeff.dalton@glasgow.ac.uk) for details on how to apply.
 
 Research Associate (Postdoc)
 We're [hiring for a Research Associate (Postdoc)](../researchassociate) to work on new deep learning models for conversational search and assistants. 
-
-Please [email me](mailto:jeff.dalton@glasgow.ac.uk) for details.
 
 ### Prospective PhD students
 We are looking for motivated and talented students who are interested in text understanding, dialogue, and information seeking (information retrieval). 
