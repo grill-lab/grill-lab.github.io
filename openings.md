@@ -13,8 +13,8 @@ There are openings for PhD students, PostDocs, and Research Software Engineers a
 
 All positions are open for start in 2022. Please [email the PI](mailto:jeff.dalton@glasgow.ac.uk) for details on how to apply.
 
-Research Associate (Postdoc)
-We're [hiring for a Research Associate (Postdoc)](../researchassociate) to work on new deep learning models for conversational search and assistants. 
+#### Research Associate (Postdoc)
+Details on the [Research Associate (Postdoc)](../researchassociate) to work on development of new and novel deep learning models for conversational systems. 
 
 ### Prospective PhD students
 We are looking for motivated and talented students who are interested in text understanding, dialogue, and information seeking (information retrieval). 
