@@ -4,10 +4,14 @@ title: Opportunities
 subtitle: 
 ---
 
-### <span style="color:red">New:</span> Research Associate (Postdoc)
-We're [hiring for a Research Associate (Postdoc)](../researchassociate) to work on Neural models for open-domain conversational information assistants. 
+### <span style="color:red">New:</span> Multiple Openings
 
-Please [contact us](../contact) for details.
+There are openings for PhD students, PostDocs, and Research Software Engineers!
+
+Research Associate (Postdoc)
+We're [hiring for a Research Associate (Postdoc)](../researchassociate) to work on new deep learning models for conversational search and assistants. 
+
+Please [email_me](mailto:jeff.dalton@glasgow.ac.uk) for details.
 
 ### Prospective PhD students
 We are looking for motivated and talented students who are interested in text understanding, dialogue, and information seeking (information retrieval). 
@@ -22,5 +26,5 @@ We supervise a limited number of projects every year.  Please send us a summary 
 Ideally, students will have experience with related courses: Text-as-Data (NLP), Information Retrieval, Recommender Systems, Conversational UX, Deep Learning, and Artificial Intelligence.  
 
 ### Summer internships
-If you are a talented UoG undergraduate student, please reach out to discuss possible research intern possibilities.  Unfortunately at this time we do not have a programme for international or non-UoG student interns.
+If you are a talented UoG undergraduate student, please reach out to discuss possible research intern possibilities.  Unfortunately we cannot host non-UoG student interns.
 
