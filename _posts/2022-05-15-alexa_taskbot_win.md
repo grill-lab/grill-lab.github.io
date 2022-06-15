@@ -5,7 +5,7 @@ thumbnail: ""
 description: UoG GRILL Bot wins the inaugural Alexa Prize TaskBot Challenge 
 ---
 
-<strong>Alexa TaskBot Win</strong>
+<strong>Alexa Prize TaskBot Win</strong>
 
 We're excited to announce that [Glasgow School of Computing Science](https://www.gla.ac.uk/schools/computing/) researchers, Team GRILL Team wins the first [Alexa Taskbot Challenge](https://www.amazon.science/alexa-prize/taskbot-challenge). The details of the finals are included in [Amazon's finals announcement](https://www.amazon.science/alexa-prize/three-top-performers-emerge-in-inaugural-alexa-prize-taskbot-challenge). Our winning system is called GRILLBot, a “multi-modal task-oriented digital assistant to guide users through complex real-world tasks”.  It helps users with cooking and everyday tasks in the home..
 
