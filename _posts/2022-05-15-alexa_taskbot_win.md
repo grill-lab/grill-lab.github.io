@@ -1,13 +1,13 @@
 ---
 layout: post
-title: GRILL wins the Alexa TaskBot Challenge 
+title: GRILL wins the Alexa Prize TaskBot Challenge 
 thumbnail: ""
-description: UoG GRILL Bot wins the inaugural Alexa TaskBot Challenge 
+description: UoG GRILL Bot wins the inaugural Alexa Prize TaskBot Challenge 
 ---
 
 <strong>Alexa TaskBot Win</strong>
 
-We're excited to announced that the GRILL Team won the first <a href="https://developer.amazon.com/alexaprize">Alexa Taskbot Challenge</a>, read [Amazon's finals announcement](https://www.amazon.science/alexa-prize/three-top-performers-emerge-in-inaugural-alexa-prize-taskbot-challenge). The 1st prize system is called GRILLBot, a “multi-modal task-oriented digital assistant to guide users through complex real-world tasks”.
+We're excited to announced that the GRILL Team won the first[Alexa Taskbot Challenge](https://www.amazon.science/alexa-prize/taskbot-challenge), read [Amazon's finals announcement](https://www.amazon.science/alexa-prize/three-top-performers-emerge-in-inaugural-alexa-prize-taskbot-challenge). The 1st prize system is called GRILLBot, a “multi-modal task-oriented digital assistant to guide users through complex real-world tasks”.
 
 You can read our system description in the [Amazon Alexa Taskbot Prize proceedings](https://www.amazon.science/alexa-prize/proceedings?f0=0000017e-89dd-de9e-a7ff-cfdf63730000&s=0). The details of the team's system research paper is: [GRILLBot: A flexible conversational agent for solving complex real-world tasks](https://www.amazon.science/alexa-prize/proceedings/grillbot-a-flexible-conversational-agent-for-solving-complex-real-world-tasks). 
 
