@@ -3,6 +3,17 @@ layout: page
 title: Publications
 subtitle: 
 ---
+## 2022
+- Gemmell, C., Fischer, S., Mackie, I., Owoicho, P., Rossetto, F. and Dalton, J., 2022. *[GRILLBot: A flexible conversational agent for solving complex real-world tasks.](https://assets.amazon.science/0c/2c/f214256a43bba8d97ade42c56be0/grillbot-a-flexible-conversational-agent-for-solving-complex-real-world-tasks.pdf)* Alexa Taskbot Challenge. Alexa Prize Proceedings. 2022. 
+
+- Mackie, I., Owoicho, P., Gemmell, C., Fischer, S., MacAvaney, S. and Dalton, J., 2022. *[CODEC: Complex Document and Entity Collection](https://arxiv.org/abs/2205.04546)*. In Proceedings of the 45th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR ’22), July 11–15, 2022, Madrid, Spain. 
+
+
+
+## 2021
+- Naseri, S., Dalton, J., Yates, A. and Allan, J., 2021, March. *[Ceqe: Contextualized embeddings for query expansion](https://arxiv.org/pdf/2103.05256.pdf)*. In European Conference on Information Retrieval (pp. 467-482). Springer, Cham.
+
+- Mackie, I., Dalton, J. and Yates, A., 2021. *[How Deep is your Learning: the DL-HARD Annotated Deep Learning Dataset](https://arxiv.org/abs/2105.07975)*. In Proceedings of the 44th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR ’21), July 11–15, 2021, Virtual Event, Canada.
 
 ## 2020
  - Dalton, J., Xiong, C. and Callan, J. *Overview of the TREC 2020 Conversational Assistance Track*, TREC 2020 Proceedings. 
