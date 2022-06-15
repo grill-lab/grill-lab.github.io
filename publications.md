@@ -3,6 +3,14 @@ layout: page
 title: Publications
 subtitle: 
 ---
+## 2022
+
+- Iain Mackie, Paul Owoicho, Carlos Gemmell, Sophie Fischer, Sean MacAvaney, and Jeffrey Dalton. 2022. *[CODEC: Complex Document and Entity Collection](https://arxiv.org/abs/2205.04546)*. In Proceedings of the 45th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR ’22), July 11–15, 2022, Madrid, Spain. 
+
+
+
+## 2021
+
 
 ## 2020
  - Dalton, J., Xiong, C. and Callan, J. *Overview of the TREC 2020 Conversational Assistance Track*, TREC 2020 Proceedings. 
