@@ -4,13 +4,13 @@ title: Publications
 subtitle: 
 ---
 ## 2022
+- Carlos Gemmell, Sophie Fischer, Iain Mackie, Paul Owoicho, Federico Rossetto, and Jeff Dalton. *[GRILLBot: A flexible conversational agent for solving complex real-world tasks.](https://assets.amazon.science/0c/2c/f214256a43bba8d97ade42c56be0/grillbot-a-flexible-conversational-agent-for-solving-complex-real-world-tasks.pdf)* Alexa Prize Proceedings. 2020. 
 
 - Iain Mackie, Paul Owoicho, Carlos Gemmell, Sophie Fischer, Sean MacAvaney, and Jeffrey Dalton. 2022. *[CODEC: Complex Document and Entity Collection](https://arxiv.org/abs/2205.04546)*. In Proceedings of the 45th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR ’22), July 11–15, 2022, Madrid, Spain. 
 
 
 
 ## 2021
-
 - Iain Mackie, Jeffrey Dalton, and Andrew Yates. 2021. *[How Deep is your Learning: the DL-HARD Annotated Deep Learning Dataset](https://arxiv.org/abs/2105.07975)*. In Proceedings of the 44th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR ’21), July 11–15, 2021, Virtual Event, Canada.
 
 ## 2020
