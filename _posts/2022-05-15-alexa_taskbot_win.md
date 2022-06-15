@@ -1,7 +1,7 @@
 ---
 layout: post
 title: GRILL wins the Alexa Prize TaskBot Challenge 
-thumbnail: ""
+thumbnail: "../assets/img/alexa_team.jpeg"
 description: UoG GRILL Bot wins the inaugural Alexa Prize TaskBot Challenge 
 ---
 
