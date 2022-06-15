@@ -11,6 +11,7 @@ subtitle:
 
 ## 2021
 
+- Iain Mackie, Jeffrey Dalton, and Andrew Yates. 2021. *[How Deep is your Learning: the DL-HARD Annotated Deep Learning Dataset](https://arxiv.org/abs/2105.07975)*. In Proceedings of the 44th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR ’21), July 11–15, 2021, Virtual Event, Canada.
 
 ## 2020
  - Dalton, J., Xiong, C. and Callan, J. *Overview of the TREC 2020 Conversational Assistance Track*, TREC 2020 Proceedings. 
