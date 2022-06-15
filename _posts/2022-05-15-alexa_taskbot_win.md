@@ -11,10 +11,11 @@ We're excited to announced that the GRILL Team won the first[Alexa Taskbot Chall
 
 You can read our system description in the [Amazon Alexa Taskbot Prize proceedings](https://www.amazon.science/alexa-prize/proceedings?f0=0000017e-89dd-de9e-a7ff-cfdf63730000&s=0). The details of the team's system research paper is: [GRILLBot: A flexible conversational agent for solving complex real-world tasks](https://www.amazon.science/alexa-prize/proceedings/grillbot-a-flexible-conversational-agent-for-solving-complex-real-world-tasks). 
 
-<img src="../assets/img/alexa_team.jpeg">
-
 The Alexa prize GRILL team consists of School of Computing Science graduate students Sophie Fischer, Carlos Gemmell, Iain Mackie, 
 Paul Owoicho, and Federico Rossetto. [Dr. Jeff Dalton](http://www.dcs.gla.ac.uk/~jeff/) is the team’s faculty advisor. 
+
+<img src="../assets/img/alexa_team.jpeg">
+Left to right: Iain Mackie, Federico Rossetto (pictured on tablet), Paul Owoicho (standing), Carlos Gemmell, Jeff Dalton (standing), and Sophie Fischer
 
 Users of Alexa in the US can interact with the systems by saying, “Alexa, open GRILL Bot” and all the finalist teams by saying “Alexa, let’s work together”.
 
