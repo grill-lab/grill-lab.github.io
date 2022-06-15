@@ -8,6 +8,8 @@ subtitle:
 
 - Mackie, I., Owoicho, P., Gemmell, C., Fischer, S., MacAvaney, S. and Dalton, J., 2022. *[CODEC: Complex Document and Entity Collection](https://arxiv.org/abs/2205.04546)*. In Proceedings of the 45th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR ’22), July 11–15, 2022, Madrid, Spain. 
 
+- Speggiorin, A., Dalton, J. and Leuski, A. 2022. TaskMAD: A Platform for Multimodal Task-Centric Knowledge-Grounded Conversational Experimentation. In Proceedings of the 45th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR’22), July 11–15, 2022, Madrid, Spain.
+
 
 
 ## 2021
