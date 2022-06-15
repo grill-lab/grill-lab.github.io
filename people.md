@@ -56,7 +56,7 @@ Develops a framework for knowledge-grounded data collection to train deep learni
 Develops methods for extracting structured data from web pages using deep learning models. 
 <br>  <br><br>
 
-**[Ivan Sekulic](https://isekulic.github.io/)** <br> <img src="/assets/img/ivan_sekulic.jpeg" width="100px" style="float: left; margin-right: 20px;"> 
+**[Ivan Sekulic](https://isekulic.github.io/)** <br> <img src="/assets/img/ivan_sekulic.jpg" width="100px" style="float: left; margin-right: 20px;"> 
 Worked on domain adaptation for the GRILLBot project. He also collaborates with other lab members on different research efforts.
 <br>  <br><br>
 
