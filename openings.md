@@ -4,16 +4,16 @@ title: Opportunities
 subtitle: 
 ---
 
-#### Research Associate (Postdoc / Senior Postdoc )
+#### <span style="color:red">New:</span> Research Associate (Postdoc / Senior Postdoc )
 Details on the [Research Associate (Postdoc)](../researchassociate) to work on development of new and novel interactive foundation models. 
 
 See the page for details. The deadline to apply is August 15th. 
 
-### <span style="color:red">New:</span> Multiple Openings
+### Multiple Openings
 There are openings for PhD students, PostDocs, and Research Software Engineers as part of the "Neural Conversational Information Seeking Assistant" project focusing on new advanced in ML and NLP to drive conversational systems.
 
 - a fully-funded PhD studentship
-- a postdoc (or senior postdoc)
+- a postdoc (or senior postdoc, see post above)
 - a research software engineer
 
 All positions are open for start in 2022/2023. Please [email the PI](mailto:jeff.dalton@glasgow.ac.uk) for details on how to apply.
