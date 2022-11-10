@@ -19,7 +19,7 @@ His main research interests focus on the intersection of natural language unders
 **[Yola Jones](https://uk.linkedin.com/in/yola-jones-6a6b0512b)** (joint with MVLS)<br> <img src="/assets/img/yola_jones.jpg" width="100px" style="float: left; margin-right: 20px;"> Develops machine learning to predict those at risk of sudden death and other catastrophic events using electronic health records and focusing on cardiovascular disease.  
 <img src="/assets/img/Twitter_Logo_Blue.png" width="30px">[@jones_yola](https://twitter.com/jones_yola)
 
-**[Iain Mackie](https://iain-mackie.github.io)** <br> <img src="/assets/img/Iain_photo.jpeg" width="100px" style="float: left; margin-right: 20px;"> Develops new methods based on deep learning for information extraction and knowledge-centric ranking tasks.   
+**[Iain Mackie](https://scholar.google.com/citations?user=pnec6VoAAAAJ&hl=en&oi=sra)** <br> <img src="/assets/img/Iain_photo.jpeg" width="100px" style="float: left; margin-right: 20px;"> Develops new methods based on deep learning for information extraction and knowledge-centric ranking tasks.   
 <img src="/assets/img/Twitter_Logo_Blue.png" width="30px"> [@iain_with_2is](https://twitter.com/iain_with_2is)
 
 **[Paul Owoicho](https://www.linkedin.com/in/paulowoicho/)** <br> <img src="/assets/img/Paul_Owoicho.jpg" width="100px" style="float: left; margin-right: 20px;"> Studies the use of mixed-initiative and feedback for open-domain Conversational Information Seeking.  
