@@ -5,7 +5,7 @@ thumbnail: "../assets/img/alexa_team-2.jpeg"
 description: Amazon Alexa Prize TaskBot Challenge 2 - Team Announcement 
 ---
 
-<strong>Alexa TaskBot Challenge</strong>
+<strong>Amazon Alexa Prize TaskBot Challenge 2</strong>
 
 We're excited to announce that GRILL is returning as one of ten teams selected to 
 compete in the second [Alexa Taskbot Challenge](https://www.amazon.science/alexa-prize/taskbot-challenge), read [Amazon's official announcement](https://www.amazon.science/alexa-prize/taskbot-challenge/ten-university-teams-selected-for-alexa-prize-taskbot-challenge-2).
@@ -20,8 +20,7 @@ Dr. Jeff Dalton is the team’s faculty advisor.
 “The team is creating the next generation of open assistants that understand and use knowledge about the world and can communicate effectively to inform and educate. We will make advances in new deep learning models for more advanced question answering, search based on new machine learning methods, and new machine learning models that learn how and when an assistant should proactively interact with people to help them effectively.”
 
 <img src="../assets/img/alexa_team-2.jpeg">
-Left to right (back row): Ekaterina Terzieva, Daniel Armstrong, Niklas Tecklenburg, Philip Zubel, Eva Kupcova and Jeff Dalton
-Left to right (front row): Iain Mackie, Sophie Fischer, Carlos Gemmell and Federico Rossetto
+Left to right (back row): Ekaterina Terzieva, Daniel Armstrong, Niklas Tecklenburg, Philip Zubel, Eva Kupcova and Jeff Dalton. Left to right (front row): Iain Mackie, Sophie Fischer, Carlos Gemmell and Federico Rossetto
 
 PhD student Sophie Fischer was part of Team GRILL last year and will lead the team in this year’s challenge. Sophie said: "The TaskBot challenge is a unique opportunity to apply and showcase our research on cutting-edge AI technologies to thousands of users around the world.
 Our research team works on new capabilities of foundation models that understand text, images, and the surrounding world.
