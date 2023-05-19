@@ -12,7 +12,7 @@ Our group collaborates with researchers from a variety of companies and agencies
  
 If you're interested in collaborating on research there are opportunities for industrial PhDs, visiting researchers, and others.  Please [contact us](../contact) to discuss details. 
 
-## Current Projects
+## Current & Recent Projects
 
 ### TREC Conversational Assistance Track (CAsT)
 We are one of the lead organizers of the TREC CAsT track, to develop reusable benchmark collections for Conversational Information Seeking. Please see the [CAsT website](https://treccast.ai) for details. 
