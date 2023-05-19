@@ -4,34 +4,16 @@ title: Opportunities
 subtitle: 
 ---
 
-#### <span style="color:red">New:</span> Research Associate (Postdoc / Senior Postdoc )
-Details on the [Research Associate (Postdoc)](../researchassociate) to work on development of new and novel interactive foundation models. 
+#### <span style="color:red"></span> Research Associate / Fellow (Postdoc / Senior Postdoc )
+There is an opening for a Postdoc position in Conversational AI starting in Autumn 2023.  
 
-See the page for details. The deadline to apply is August 15th. 
-
-### Multiple Openings
-There are openings for PhD students, PostDocs, and Research Software Engineers as part of the "Neural Conversational Information Seeking Assistant" project focusing on new advanced in ML and NLP to drive conversational systems.
-
-- a fully-funded PhD studentship
-- a postdoc (or senior postdoc, see post above)
-- a research software engineer
-
-All positions are open for start in 2022/2023. Please [email the PI](mailto:jeff.dalton@glasgow.ac.uk) for details on how to apply.
-
-
+Stay tuned for application details. Informal inquries can be made to Jeff Dalton.
 
 ### Prospective PhD students
-We are looking for motivated and talented students who are interested in text understanding, dialogue, and information seeking (information retrieval). 
- - If you are not currently at Glasgow, you will need to apply through the [application process](https://www.gla.ac.uk/schools/computing/postgraduateresearch/prospectivestudents/). You may contact us (see contact page) before submitting your application. 
- - If you are a UoG MSc or undergraduate student, please reach out and contact us to discuss opportunities.
- 
-**Note:** There are CSC scholarships and School [studentships available](https://www.gla.ac.uk/schools/computing/postgraduateresearch/prospectivestudents/studentshipinformation/), the deadlines for those are the end of January/July.
+We are always looking for motivated and talented students who are interested in text understanding, dialogue, and information seeking (information retrieval). 
+ - Please look through our publications to get ideas for topics. Send the PI a succint email with your interests, proposed area, and relevant experience and publications. 
  
 ### MSc and Undergraduate Projects
 We supervise a limited number of projects every year.  Please send us a summary of the project you are interested in and a CV/resume.  
 
-Ideally, students will have experience with related courses: Text-as-Data (NLP), Information Retrieval, Recommender Systems, Conversational UX, Deep Learning, and Artificial Intelligence.  
-
-### Summer internships
-If you are a talented UoG undergraduate student, please reach out to discuss possible research intern possibilities.  Unfortunately we cannot host non-UoG student interns.
-
+Ideally, students will have experience with related courses: NLP, Machine Learning, Information Retrieval, and Deep Learning.  
