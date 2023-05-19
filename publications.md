@@ -3,6 +3,11 @@ layout: page
 title: Publications
 subtitle: 
 ---
+## 2023
+- Mackie, I., Chatterjee, S., and Dalton, J., 2023. *[Generative Relevance Feedback with Large Language Models](https://arxiv.org/pdf/2304.13157.pdf)*. In Proceedings of the 46th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR ’23). 
+
+- Owoicho, P., Sekulić, I., Aliannejadi, M., Dalton, J., and Crestani, F., 2023. *[Exploiting Simulated User Feedback for Conversational Search: Ranking, Rewriting, and Beyond](https://arxiv.org/pdf/2304.13874.pdf)*. In Proceedings of the 46th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR ’23). 
+
 ## 2022
 - Owoicho, P., Dalton, J., Aliannejadi, M., Azzopardi, L., Trippas, J., Vakulenko, S., 2022. *[TREC CAsT 2022: Going Beyond User Ask and System Retrieve with Initiative and Response Generation](https://trec.nist.gov/pubs/trec31/papers/Overview_cast.pdf)*. Proceedings of the NIST Text Retrieval Conference (TREC 2022). 2022. 
 
