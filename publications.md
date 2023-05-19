@@ -8,7 +8,7 @@ subtitle:
 
 - Mackie, I., and Dalton, J., 2022. *[Query-Specific Knowledge Graphs for Complex Finance Topics](https://arxiv.org/pdf/2211.04142.pdf)*. AKBC 2022 Workshop, Knowledge Graphs in Finance and Economics . 2022. 
 
-- Fischer, S., Gemmell, C., Mackie, I., and Dalton, J., 2022. *[VILT: Video Instructions Linking for Complex Tasks(https://arxiv.org/pdf/2208.10858.pdf)*. Proceedings of the 2nd International Workshop on Interactive Multimedia Retrieval. 2022. 
+- Fischer, S., Gemmell, C., Mackie, I., and Dalton, J., 2022. *[VILT: Video Instructions Linking for Complex Tasks](https://arxiv.org/pdf/2208.10858.pdf)*. Proceedings of the 2nd International Workshop on Interactive Multimedia Retrieval. 2022. 
 
 - Gemmell, C., Rossetto, F., Mackie, I., Owoicho, P.,  Fischer, S., and Dalton, J., 2022. *[GRILLBot: A multi-modal conversational agent for complex real-world tasks](https://aclanthology.org/2022.sigdial-1.63.pdf)*. Proceedings of the 23rd Annual Meeting of the Special Interest Group on Discourse and Dialogue. 2022. 
 
