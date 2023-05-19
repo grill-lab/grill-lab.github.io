@@ -8,8 +8,12 @@ subtitle:
 
 - Owoicho, P., Sekulić, I., Aliannejadi, M., Dalton, J., and Crestani, F., 2023. *[Exploiting Simulated User Feedback for Conversational Search: Ranking, Rewriting, and Beyond](https://arxiv.org/pdf/2304.13874.pdf)*. In Proceedings of the 46th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR ’23). 
 
+- Gemmell, C., and Dalton, J., 2022. *[Generate, Transform, Answer: Question Specific Tool Synthesis for Tabular Data](https://arxiv.org/pdf/2303.10138)*. Arxiv (Preprint).
+
 ## 2022
 - Owoicho, P., Dalton, J., Aliannejadi, M., Azzopardi, L., Trippas, J., Vakulenko, S., 2022. *[TREC CAsT 2022: Going Beyond User Ask and System Retrieve with Initiative and Response Generation](https://trec.nist.gov/pubs/trec31/papers/Overview_cast.pdf)*. Proceedings of the NIST Text Retrieval Conference (TREC 2022). 2022. 
+
+- Soare, E., Mackie, I., and Dalton, J., 2022. *[DocuT5: Seq2seq SQL Generation with Table Documentation](https://arxiv.org/abs/2211.06193)*. Arxiv (Preprint).. 
 
 - Mackie, I., and Dalton, J., 2022. *[Query-Specific Knowledge Graphs for Complex Finance Topics](https://arxiv.org/pdf/2211.04142.pdf)*. AKBC 2022 Workshop, Knowledge Graphs in Finance and Economics . 
 
