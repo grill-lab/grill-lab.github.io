@@ -20,7 +20,7 @@ As part of this transition, the GRILL Lab name is also updating its full name to
 <strong>More news:</strong>
 - Jeff Dalton will be a visiting professor at [Bloomberg AI](https://www.bloomberg.com/company/values/tech-at-bloomberg/artificial-intelligence-ai/) in London working on retrieval, large language models ([BloombergGPT](https://www.bloomberg.com/company/press/bloomberggpt-50-billion-parameter-llm-tuned-finance/)), including knowledge graph and conversational systems.
 - Ph.D. student [Carlos Gemmell](https://carlos-gemmell.github.io/) is doing a research internship at Meta in London on the future of [tool-enabled language models](https://arxiv.org/abs/2302.04761).
-- Lab members will present at the First UK AI Fellows conference ([UKAI2023](https://uk-ai.org/ukai2023/)) next week.
+- Lab members will present at the first UK AI Fellows conference ([UKAI2023](https://uk-ai.org/ukai2023/)) next week.
 - And there are multiple research publications at SIGIR - stay tuned for more details!
 
 <strong>The GRILL lab will have an opening for a postdoc research position in Conversational AI at the University of Edinburgh starting in Autumn 2023. Please reach out via email or social media to Dr. Dalton directly for details.<strong>
