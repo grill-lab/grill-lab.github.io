@@ -13,7 +13,7 @@ Just in time for Summer, we're excited to announce that the GRILL is joining the
 
 The GRILL PI, Jeff Dalton, received a prestigious [University of Edinburgh Chancellor's Fellowship](https://www.ed.ac.uk/news/2023/fellowships-recognise-pioneering-research-talent) in "Data, Digital, and Artificial Intelligence", an investment in leaders with a vision to empower new innovative research and forge industry partnerships. See the announcement from the University and [School of Informatics](https://www.ed.ac.uk/informatics/news-events/news/2023/school-of-informatics-chancellors-fellows-2023). 
 
-We look forward to being part of these ambitious goals and continuing our group's research on developing the future of conversational AI assistants like Alexa, ChatGPT, and beyond. We look forward to collaborating with future colleagues in the ILCC and [Edinburgh NLP](https://edinburghnlp.inf.ed.ac.uk/) to realize this vision. 
+We look forward to being part of these ambitious goals and continuing our group's research on developing the future of conversational AI assistants like Alexa, ChatGPT, and beyond. And collaborating with future students and colleagues in the ILCC and [Edinburgh NLP](https://edinburghnlp.inf.ed.ac.uk/) to realize this vision. 
 
 As part of this transition, the GRILL Lab name is also updating its full name to: "Generalized Representation and Information Learning Lab".
 
