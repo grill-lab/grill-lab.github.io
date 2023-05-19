@@ -4,10 +4,10 @@ title: Publications
 subtitle: 
 ---
 ## 2022
-- Owoicho, P., Dalton, J., Aliannejadi, M., Azzopardi, L., Trippas, J., Vakulenko, S., [TREC CAsT 2022: Going Beyond User Ask and System Retrieve with Initiative and Response Generation](https://trec.nist.gov/pubs/trec31/papers/Overview_cast.pdf)* Proceedings of the NIST Text Retrieval Conference (TREC 2022). 2022. 
+- Owoicho, P., Dalton, J., Aliannejadi, M., Azzopardi, L., Trippas, J., Vakulenko, S., *[TREC CAsT 2022: Going Beyond User Ask and System Retrieve with Initiative and Response Generation](https://trec.nist.gov/pubs/trec31/papers/Overview_cast.pdf)* Proceedings of the NIST Text Retrieval Conference (TREC 2022). 2022. 
 
 
-- Mackie, I., and Dalton, J., 2022. [Query-Specific Knowledge Graphs for Complex Finance Topics](https://arxiv.org/pdf/2211.04142.pdf)* AKBC 2022 Workshop, Knowledge Graphs in Finance and Economics . 2022. 
+- Mackie, I., and Dalton, J., 2022. *[Query-Specific Knowledge Graphs for Complex Finance Topics](https://arxiv.org/pdf/2211.04142.pdf)* AKBC 2022 Workshop, Knowledge Graphs in Finance and Economics . 2022. 
 
 - Fischer, S., Gemmell, C., Mackie, I., and Dalton, J., 2022. *[VILT: Video Instructions Linking for Complex Tasks](https://arxiv.org/pdf/2208.10858.pdf)* Proceedings of the 2nd International Workshop on Interactive Multimedia Retrieval. 2022. 
 
