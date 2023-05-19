@@ -7,7 +7,7 @@ subtitle:
 ## Current Lab Members
 
 ### Principal Investigator
-**[Dr Jeff Dalton](https://www.gla.ac.uk/schools/computing/staff/jeffdalton/)** <br> <img src="/assets/img/jeff_dalton.jpeg" width="100px" style="float: left; margin-right: 20px;"> Lecturer (tenure-track Assistant Professor)  
+**[Dr Jeff Dalton](https://www.gla.ac.uk/schools/computing/staff/jeffdalton/)** <br> <img src="/assets/img/jeff_dalton.jpeg" width="100px" style="float: left; margin-right: 20px;"> Chancellor's Fellow/Reader (Associate Professor)  
 His main research interests focus on the intersection of natural language understanding and information seeking for complex tasks.  
 <img src="/assets/img/Twitter_Logo_Blue.png" width="30px"> [@jeffd](https://twitter.com/jeffd)
 <br>  
@@ -64,7 +64,6 @@ Develops a framework for knowledge-grounded data collection to train deep learni
 - [Laura Dietz](https://www.cs.unh.edu/~dietz/) - UNH
 - [Leif Azzopardi](http://www.dcs.gla.ac.uk/~leif/) - Strathyclyde
 - [Fani Deligianni](https://www.gla.ac.uk/schools/computing/staff/fanideligianni/)
-- Glasgow [Terrier Team](http://terrierteam.dcs.gla.ac.uk/)
 
 ## Past Lab Members
 
