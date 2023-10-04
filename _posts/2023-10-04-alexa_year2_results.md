@@ -2,10 +2,10 @@
 layout: post
 title: GRILL wins 2nd Prize in Alexa Prize TaskBot Challenge 2
 thumbnail: "../assets/img/alexa_team-2.jpeg"
-description: GRILLBot wins 2nd Prize in Alexa Prize TaskBot Challenge 2
+description: GRILL Team wins 2nd Prize in second Alexa Prize TaskBot Challenge
 ---
 
-<strong>GRILL wins 2nd Prize in Alexa Prize TaskBot Challenge 2</strong>
+<strong>Amazon Alexa Prize TaskBot Challenge 2</strong>
 
 We are excited to announce Team GRILL won the second Prize in the [Alexa Prize TaskBot Challenge 2](https://www.amazon.science/alexa-prize/taskbot-challenge). 
 Our system, called GRILLBot, is a "multi-modal task-oriented digital assistant to guide users through complex real-world tasks".
