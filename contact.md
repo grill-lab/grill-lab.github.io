@@ -5,14 +5,14 @@ subtitle:
 ---
 
 ## Location
-The GRILL Lab (S154)  
-School of Computing Science  
-University of Glasgow  
-Glasgow G12 8RZ  
-Scotland, UK  
+The GRILL Lab  
+Informatics Forum
+10 Crichton St, Newington
+Edinburgh EH8 9AB
+Scotland, UK
 
 ## E-mail 
-<i class="fas fa-envelope"></i> jeff.dalton {at} glasgow.ac.uk
+<i class="fas fa-envelope"></i> jeff.dalton {at} ed.ac.uk
 
 ## Phone
-(+44) 0141 330 4470 
+(+44) 131 6520725 
