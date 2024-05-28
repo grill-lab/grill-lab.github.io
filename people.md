@@ -42,10 +42,9 @@ His main research interests focus on the intersection of natural language unders
 
 **[Sophie Fischer](https://scholar.google.com/citations?user=fBWHYdQAAAAJ)** <br> <img src="/assets/img/sophie_fischer.jpeg" width="100px" style="float: left; margin-right: 20px;"> She focusses on multi-modal representation learning in a conversational setting to allow tasks like Visual Question Answering. <br>
 <img src="/assets/img/Twitter_Logo_Blue.png" width="30px"> [@sophie_fisch](https://twitter.com/sophie_fisch)  
-<br><br> 
 <br>
 
-**[Ekaterina (Katya) Taktasheva](https://uk.linkedin.com/in/ekaterina-taktasheva)** <br> <img src="/assets/img/katya.jpg" width="100px" style="float: left; margin-right: 20px;">  
+**[Ekaterina (Katya) Taktasheva](https://uk.linkedin.com/in/ekaterina-taktasheva)** <br> <img src="/assets/img/katya.jpg" width="100px" style="float: left; margin-right: 20px;">  Works on the integration of user preferences and extended context reasoning for tool-augmented language models within dialogue settings.
 <br>
 <img src="/assets/img/Twitter_Logo_Blue.png" width="30px"> [@evtaktasheva](https://twitter.com/evtaktasheva)
 <br>
