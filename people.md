@@ -45,7 +45,7 @@ His main research interests focus on the intersection of natural language unders
 <br><br> 
 <br>
 
-**[Ekaterina (Katya) Taktasheva](https://uk.linkedin.com/in/ekaterina-taktasheva)** <br> <img src="/assets/img/katya.jpeg" width="100px" style="float: left; margin-right: 20px;">  
+**[Ekaterina (Katya) Taktasheva](https://uk.linkedin.com/in/ekaterina-taktasheva)** <br> <img src="/assets/img/katya.jpg" width="100px" style="float: left; margin-right: 20px;">  
 <br>
 <img src="/assets/img/Twitter_Logo_Blue.png" width="30px"> [@evtaktasheva](https://twitter.com/evtaktasheva)
 <br>
