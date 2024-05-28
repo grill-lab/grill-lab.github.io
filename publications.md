@@ -3,7 +3,28 @@ layout: page
 title: Publications
 subtitle: 
 ---
+## 2024
+
+- Fischer, S., Gemmell, C., Tecklenburg, N., Mackie, I., Rossetto, F. and Dalton, J., 2024 *[GRILLBot In Practice: Lessons and Tradeoffs Deploying Large Language Models for Adaptable Conversational Task Assistants](https://arxiv.org/pdf/2402.07647)* in Proceedings of the 30th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD '24).
+
+- Chatterjee, S., Mackie, I., & Dalton, J., 2024 *[DREQ: Document Re-Ranking Using Entity-based Query Understanding](https://arxiv.org/abs/2401.05939) in Proceedings of the The 46th European Conference on Information Retrieval (ECIR '24).
+
+- Joko, H., **Chatterjee, S., Ramsay**, A., Vries, A.P., Dalton, J., & Hasibi, F., 2024 *[Doing Personal LAPS: LLM-Augmented Dialogue Construction for Personalized Multi-Session Conversational Search](https://arxiv.org/abs/2405.03480)* In Proceedings of the 47th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR ’24). 
+
+- Aliannejadi, M., Abbasiantaeb, Z., **Chatterjee, S., Dalton, J.**, & Azzopardi, L., 2024 *[TREC iKAT 2023: A Test Collection for Evaluating Conversational and Interactive Knowledge Assistants](https://arxiv.org/abs/2405.02637)* In Proceedings of the 47th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR ’24). 
+
+- Mackie, I., Chatterjee, S., MacAvaney, S. and Dalton, J., 2024 *[Adaptive Latent Entity Expansion for Document Retrieval](https://keirworkshop.github.io/assets/files/keir_1.pdf)* in Proceedings of KEIR@ECIR 2024: THE FIRST WORKSHOP ON KNOWLEDGE-ENHANCED INFORMATION RETRIEVAL at ECIR'24
+
+- Fischer, S., Rossetto, F., Gemmell, C., Ramsay, A., Mackie, I., Zubel, P., Tecklenburg, N. and Dalton, J., 2024 *[Open Assistant Toolkit -- version 2]()* ArXiv, abs/2403.00586.
+
 ## 2023
+
+- Gemmell, C. and Dalton, J., 2023 *[ToolWriter: Question Specific Tool Synthesis for Tabular Data](https://aclanthology.org/2023.emnlp-main.1003/)* in Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing (EMNLP 2023)
+
+- Rossetto, F., Dalton, J. and Murray-Smith, R., 2023 *[Generating Multimodal Augmentations with LLMs from Song Metadata for Music Information Retrieval](https://dl.acm.org/doi/abs/10.1145/3607827.3616842)* in Proceedings of the 1st Workshop on Large Generative Models Meet Multimodal Applications.
+
+- Dalla Serra, F., Wang, C., Deligianni, F., Dalton, J., O'Neil, A., 2023 *[Finding-aware anatomical tokens for chest X-ray automated reporting](https://link.springer.com/chapter/10.1007/978-3-031-45673-2_41)* in International Workshop on Machine Learning in Medical Imaging.
+
 - Mackie, I., Chatterjee, S., and Dalton, J., 2023. *[Generative Relevance Feedback with Large Language Models](https://arxiv.org/pdf/2304.13157.pdf)*. In Proceedings of the 46th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR ’23). 
 
 - Owoicho, P., Sekulić, I., Aliannejadi, M., Dalton, J., and Crestani, F., 2023. *[Exploiting Simulated User Feedback for Conversational Search: Ranking, Rewriting, and Beyond](https://arxiv.org/pdf/2304.13874.pdf)*. In Proceedings of the 46th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR ’23). 
