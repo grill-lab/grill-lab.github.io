@@ -14,10 +14,11 @@ His main research interests focus on the intersection of natural language unders
 
 ### Postdocs
 
-**[Shubham Chatterjee](https://www.dcs.gla.ac.uk/~shubham/)** <br> <img src="/assets/img/shubham.jpg" width="100px" style="float: left; margin-right: 20px;"> He works on several research areas within IR, such as Neural Entity Extraction, Text Understanding, Conversational IR, Knowledge Graphs and Representation Learning. His goal is to design intelligent search systems that can provide complete answers to complex user information needs, rather than just a list of results. Prior completed his Ph.D. with Dr. Laura Dietz at the University of New Hampshire, USA.  <br>
-<img src="/assets/img/Twitter_Logo_Blue.png" width="30px">[@ShubhamC526](https://twitter.com/ShubhamC526)
+**[Dr Chuan Meng](https://chuanmeng.github.io/)** <br> <img src="/assets/img/chuan_meng.jpeg" width="100px" style="float: left; margin-right: 20px;"> Postdoctoral Researcher (Research Associate). His main research interests focus on agentic information access, and deep research systems  <br>
+<img src="/assets/img/Twitter_Logo_Blue.png" width="30px">[@ChuanMg](https://x.com/ChuanMg)
 <br>  
 <br> 
+
 
 ### PhD Students
 **[Carlos Gemmell](https://aquaktus.github.io)** <br>  <img src="/assets/img/carlos_gemmell.jpeg" width="100px" style="float: left; margin-right: 20px;">  Develops new machine learning methods to deepen human-machine collaboration by breaking down structured tasks like programming into a conversation.  
@@ -67,7 +68,7 @@ Develops a framework for knowledge-grounded data collection to train deep learni
 - [Fani Deligianni](https://www.gla.ac.uk/schools/computing/staff/fanideligianni/)
 
 ## Past Lab Members
-
+- [Shubham Chatterjee](https://www.dcs.gla.ac.uk/~shubham/) 
 - [Alessandro Speggiorin](https://www.linkedin.com/in/alessandro-speggiorin/) (Full-Stack Engineer @ Malted AI)
 - [Enrico Trombetta](https://www.linkedin.com/in/erolm-a/) (Research Assistant @ University of Glasgow)
 - [Adam Czyzewski](https://www.linkedin.com/in/czyzewski-a/) (Software Engineer @ Meta)
