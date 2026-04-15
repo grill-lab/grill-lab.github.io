@@ -12,7 +12,7 @@ His main research interests focus on the intersection of natural language unders
 <img src="/assets/img/Twitter_Logo_Blue.png" width="30px"> [@jeffd](https://twitter.com/jeffd)
 <br>  
 
-### Postdocs
+### Postdoc
 
 **[Dr Chuan Meng](https://chuanmeng.github.io/)** <br> <img src="/assets/img/chuan_meng.jpeg" width="100px" style="float: left; margin-right: 20px;"> Postdoctoral Researcher (Research Associate)  <br>
 His main research interests focus on agentic information access systems, and deep research systems  <br>
